@@ -1,8 +1,7 @@
 # 👋 Hey, I'm **Aasawari!** 🌻  
 *One step at a time, one bug at a time, one breakthrough at a time.*  
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=FAD0C4,FFD1FF&height=200&section=header&text=Hi%20There!%20I'm%20Aasawari%20💻🌻&fontSize=30&fontColor=5A189A)
-
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=FAD0C4,FFD1FF&height=200&section=header&text=Exploring%20Tech%20with%20Curiosity%20%F0%9F%8C%9F&fontSize=28&fontColor=5A189A)
 ---
 
 ## ✨ A Little About Me  
