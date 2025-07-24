@@ -51,13 +51,13 @@ Git | VS Code | Firebase | Flask
 
 ---
 
-## 📈 GitHub Stats  
+<!--## 📈 GitHub Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aasawari-git&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aasawari-git&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashu-ux8&show_icons=true&theme=tokyonight&count_private=true">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashu-ux8&theme=tokyonight">
 </div>
 
----
+--->
 
 ## 🏆 Highlights  
 - 📜 Infosys Python Foundation Certified  
